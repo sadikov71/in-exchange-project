@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1768654858.27293",
+      "username": "sadikov",
+      "name": "Saidkamol",
+      "surname": "Sodikov",
+      "email": "saidakamolxon73@gmail.com",
+      "birthDate": "2011-04-07",
+      "age": 14,
+      "grade": 9,
+      "password": "Shukrona151"
+    }
+  ],
+  "items": [
+    {
+      "id": "1768656836.395387",
+      "name": "Algebra 8th grade book",
+      "description": "8-sinf algebra kitobi rus tilida",
+      "price": 20000,
+      "type": "sell",
+      "image": "",
+      "meetingRoom": "307",
+      "stock": 1,
+      "sellerId": "1768654858.27293",
+      "sellerUsername": "sadikov",
+      "sellerEmail": "saidakamolxon73@gmail.com",
+      "createdAt": "2026-01-17T18:33:56.395403"
+    }
+  ],
+  "favorites": [],
+  "messages": [],
+  "settings": {
+    "1768654858.27293": {
+      "theme": "dark",
+      "language": "ru"
+    }
+  }
+}
